@@ -1,5 +1,5 @@
 #!/bin/bash
-# Helge custom script to build latest squid package from debian-testing with ssl interception
+# custom script to build latest squid package from debian-testing with ssl interception
 #######################################################################################
 #Configure apt and build dependencies
 rm /etc/apt/sources.list
